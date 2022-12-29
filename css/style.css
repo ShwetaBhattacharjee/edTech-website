@@ -1,0 +1,48 @@
+.cover1{
+    background-image: url("images/cover/cover-1.png") !important;
+    
+}
+.carousel-content {
+    position: absolute;
+    bottom: 25%;
+    
+   
+
+    width: 100%;
+    
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
+.cover{
+    height: 500px;
+}
+.bg{
+    background-image: url('images\cover\cover-1.png');
+    background-size: cover;
+}
+.chobi{
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+  height: 600px;
+}
+.btn-modern{
+    background-image: linear-gradient(to bottom, #69a3ea 0%, #429bee 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.price{
+    color: #429bee;
+   
+    
+}
+.bg{
+    height: 350px;
+    background-color: black;
+    color: white;
+}
+#ic{
+    color: white;
+    margin: 2px;
+}
